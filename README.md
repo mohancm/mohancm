@@ -2,7 +2,7 @@
 Welcome
 </h1>
 <h3 align="center">
-<img src="https://github.com/mohancm/testreadme/blob/master/mybio.png" height="500" width="1000">
+<img src="https://github.com/mohancm/mohancm/blob/master/mybio.png" height="500" width="1000">
 </h3>
 
 <p align="center">
