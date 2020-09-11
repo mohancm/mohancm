@@ -14,12 +14,12 @@ Welcome
 
 ---
 
-I'm a Aspiring Software Engineer💻. Currently Open for SWE Internship Oppurtunities.I'm passionate about learning and exploring the latest technologies that leverage to solve real-world problems.My Interest lies in Android Application, AOSP development, Artificial Intelligence, and has some knowledge in web development also. I am passionate about building products using technology that can help improve people's lives.If you'd like to collaborate or chat more, feel free to reach out to me.💬
+I'm a Aspiring Software Engineer💻. Currently working as Android Engineer at [Esper](https://www.esper.io). I'm passionate about learning and exploring the latest technologies that leverage to solve real-world problems.My Interest lies in Android Application, AOSP development, Artificial Intelligence, and has some knowledge in web development also. I am passionate about building products using technology that can help improve people's lives.If you'd like to collaborate or chat more, feel free to reach out to me.💬
 
 <br>
 <br>
 
-- 🔭 I’m currently working on my Final Year Project.
+- 🔭 I’m currently working as Android Engineer.
 - 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose).
 - 👯 I’m looking to collaborate on a potential project.
 - 💬 Ask me anything about my **Projects**!
