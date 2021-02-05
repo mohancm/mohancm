@@ -1,9 +1,9 @@
-<h1 align="center">
+<h2 align="center">
 Welcome
-</h1>
-<h3 align="center">
+</h2>
+<h1 align="center">
 Hello World!, I'm Mohan C M
-</h3>
+</h1>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/mohancm" alt="profile views"> •  
