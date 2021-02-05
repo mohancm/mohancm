@@ -2,7 +2,7 @@
 Welcome
 </h1>
 <h3 align="center">
-  <h1> Hello World!, I'm Mohan C M </h1>
+Hello World!, I'm Mohan C M
 </h3>
 
 <p align="center">
