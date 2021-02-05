@@ -2,7 +2,7 @@
 Welcome
 </h1>
 <h3 align="center">
-<img src="https://github.com/mohancm/mohancm/blob/master/mybio.png" height="500" width="1000">
+  <h1> Hello World!, I'm Mohan C M </h1>
 </h3>
 
 <p align="center">
