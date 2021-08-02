@@ -14,7 +14,7 @@ Hello World, I'm Mohan C M
 
 ---
 
-Currently working as Android Engineer at [Esper](https://www.esper.io)📱. I'm passionate about learning and exploring the latest technologies that leverage to solve real-world problems.My Interest lies in Android Application, AOSP development, Artificial Intelligence, and has some knowledge in web development also. I am passionate about building products using technology that can help improve people's lives.If you'd like to collaborate or chat more, feel free to reach out to me.💬
+Currently working as Android Engineer at [Esper](https://www.esper.io) 📱. I'm passionate about learning and exploring the latest technologies that leverage to solve real-world problems.My Interest lies in Android Application, AOSP development, and has some knowledge in web development also. I am passionate about building products using technology that can help improve people's lives. If you'd like to collaborate or chat more, feel free to reach out to me.💬
 
 <br>
 <br>
