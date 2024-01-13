@@ -1,42 +1,35 @@
-<h2 align="center">
-Hi there <a href="https://www.mohancm.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-Welcome
-</h2>
-<h1 align="center">
-I'm Mohan C M
-</h1>
-
+<h2 align="center"> Hello,<a href="https://www.mohancm.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Mohan.</h2>
+<h3 align="center"> I'm a self-taught passionate Android developer from India 🇮🇳 </h3>
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=ImMohanCm&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/ImMohanCm?label=%40ImMohanCm&style=social"></a>  •
-  <a href="https://www.mohancm.dev">Website</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=ImMohanCm&tw_p=followbutton">Twitter</a> •
+  :small_blue_diamond: <a href="https://www.mohancm.dev">:globe_with_meridians: website </a> :small_blue_diamond:
 </p>
 
----
+-------
+As a Software Engineer at Volvo Group, I am driven by a passion for exploring the latest technologies and leveraging them to address real-world challenges. My primary interests include:
+- Android OS development
+- Android applications
+- Overall Android stack
 
-Currently working as Android Platform Engineer at Volvo Group 🚗. 
-I'm passionate about learning and exploring the latest technologies that leverage to solve real-world problems. My Interest lies in AOSP development and Android Applications or the Overall Android Stack. I am passionate about building products using technology that can help improve people's lives. If you'd like to collaborate or chat more, feel free to reach out to me.💬
+I am dedicated to creating products that enhance people's lives and improve their experiences. If you would like to collaborate or discuss potential projects, please feel free to reach out to me. I am always eager to connect with like-minded professionals and learn from their experiences.
 
 <br>
-<br>
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose).
-- 👯 I’m looking to collaborate on a potential project.
-- 💬 Ask me anything about **AOSP**!
-- 📫 How to reach me: `mohanmanjappa@gmail.com`
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I would rather shop for kitchen gadgets than clothes or shoes.
+- 🔭 I am currently working on an exciting project. :wink:
+- 🌱 I am currently expanding my knowledge of [Jetpack Compose](https://developer.android.com/jetpack/compose).
+- 👯 I am open to collaborating on potential projects.
+- 💬 Feel free to ask me anything about **AOSP**!
+- 📫 You can reach me at @`mohanmanjappa@gmail.com`
+- 😄 My preferred pronouns are he/him.
 
 <br>
 
 <h3 align="center">
-Connect with me:
+🔗 &nbsp;<b>Connect with me</b>
 
-[<img align="center" alt="mohancm.dev | Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="ImMohanCm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="center" alt="MohanCm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="MohanCmOfficial | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="mohancm.dev | Web" width="22px" src="https://cdn.simpleicons.org/googlechrome/#4285F4" />][website]
+[<img align="center" alt="ImMohanCm | X" width="22px" src="https://cdn.simpleicons.org/X/#5ED9C7" />][Twitter]
+[<img align="center" alt="MohanCm | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
+[<img align="center" alt="MohanCmOfficial | Instagram" width="22px" src="https://cdn.simpleicons.org/Instagram/#E4405F" />][Instagram]
 
 </h3>
 
@@ -47,7 +40,8 @@ Connect with me:
 
 <br>
 
-![Mohan's github stats](https://github-readme-stats.vercel.app/api?username=mohancm&count_private=true&include_all_commits=true&show_icons=true)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohancm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohancm&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 [website]: https://www.mohancm.dev
